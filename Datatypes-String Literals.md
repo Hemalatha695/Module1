@@ -17,7 +17,7 @@ men_stepped_on_the_moon = input("Enter a string: ")
 print("You entered:", men_stepped_on_the_moon)
 ```
 ## Output
-````
+```
 You entered: Hello, World!
 ```
 ## Result
