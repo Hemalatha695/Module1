@@ -16,6 +16,26 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 Add Code here
+```
+# Set variables based on expressions
+a = 0 == True  # Evaluates to False because 0 is not equal to True
+b = False == False  # Evaluates to True because False is equal to False
+c = True + True  # Evaluates to 2 because True is treated as 1, so 1 + 1 = 2
+d = False + 9  # Evaluates to 9 because False is treated as 0, so 0 + 9 = 9
+
+# Print the results
+print("a is", a)
+print("b is", b)
+print("c:", c)
+print("d:", d)
+```
 
 ## Output
+```
+a is False
+b is True
+c: 2
+d: 9
+```
 ## Result
+This program successfully calculates and prints the sum of all elements in the list [1, 2, 3, 4, 5] using the built-in sum() function.
