@@ -24,4 +24,4 @@ else:
 
 
 ## Result
-The program successfully check whether the given number is odd or even using if.else statement and print the coorect result
+The program successfully check whether the given number is odd or even using if.else statement and print the correct result
