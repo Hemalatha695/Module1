@@ -9,17 +9,13 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 
 ## 🧾 Program
 ```
-# Step 1: Print the character 'T'
 print('T')
-
-# Step 2: Print the character 'a'
 print('a')
 ```
 
 ## Output
-```
-T
-a
-```
+![mod1(3)](https://github.com/user-attachments/assets/c5afc3c0-ddca-4667-895c-d74c82d7d89d)
+
 ## Result
 The program successfully prints each character on a new line.
+
