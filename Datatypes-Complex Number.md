@@ -24,7 +24,7 @@ print(x.imag)
 
 ## Output
 ```
-![mod1(4)](https://github.com/user-attachments/assets/963327e6-c08c-41a9-bc13-5221276eb33e)
+![mod1(4)](https://github.com/user-attachments/assets/b35c48cd-69f7-4af4-9c67-ec65b53b19bf)
 
 ```
 ## Result
