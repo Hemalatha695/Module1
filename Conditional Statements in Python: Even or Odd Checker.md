@@ -13,23 +13,14 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 ```
-# Step 1: Get input from the user
-user_input = input("Enter a number: ")
-
-# Step 2: Convert input to an integer
-a = int(user_input)
-
-# Step 3: Check if the number is even or odd
-if a % 2 == 0:
+a=int(input())
+if a%2==0:
     print("EVEN")
 else:
     print("ODD")
 ```
 ## Output
-```
-Enter a number: 4
-EVEN
-```
+![Uploading mod1(1).png…]()
 
 ## Result
-The program successfully calculates and prints the sum of all elements in the list using the built-in sum() function.
+The program successfully check whether the given number is odd or even using if.else statement and print the coorect result
