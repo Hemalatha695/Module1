@@ -33,4 +33,4 @@ print("d:", d)
 ![mod1(2)](https://github.com/user-attachments/assets/e3ece5d4-bdbb-4111-a39a-7a0ee6bce380)
 
 ## Result
-This program successfully calculates and prints the sum of all elements in the list [1, 2, 3, 4, 5] using the built-in sum() function.
+This program successfully evaluates boolean and arithimetic expression involving True and False and prints the result qith appropiate labels.
