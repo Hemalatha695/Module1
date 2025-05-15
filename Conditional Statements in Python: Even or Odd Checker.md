@@ -20,7 +20,8 @@ else:
     print("ODD")
 ```
 ## Output
-![Uploading mod1(1).png…]()
+![mod1(1)](https://github.com/user-attachments/assets/d4bf3c56-9249-42ec-9318-325084d0f7af)
+
 
 ## Result
 The program successfully check whether the given number is odd or even using if.else statement and print the coorect result
