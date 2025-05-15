@@ -23,9 +23,9 @@ print(x.imag)
 ```
 
 ## Output
-```
+
 ![mod1(4)](https://github.com/user-attachments/assets/b35c48cd-69f7-4af4-9c67-ec65b53b19bf)
 
-```
+
 ## Result
 This program successfully calculates and displays the complex number as well as its real and imaginary components!
